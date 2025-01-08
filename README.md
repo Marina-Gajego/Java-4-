@@ -27,7 +27,7 @@ O curso ensina como fazer requisições HTTP, manipular dados JSON, gravar e ler
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/java-consumindo-api-arquivos.git
+   git clone https://github.com/seu-usuario/Java-consumindo-API-gravando-arquivos-e-lidando-com-erros.git
 Abra o projeto no IntelliJ IDEA.
 Configure o JDK (Java Development Kit) caso necessário.
 Execute os arquivos .java para testar as funcionalidades de consumo de API e manipulação de arquivos.
